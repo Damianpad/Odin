@@ -48,3 +48,26 @@ console.log(notNum1);
 // However if the string contains a numeric value, the result will be a number
 let isNum = 100 / "10";
 console.log(isNum);
+
+// You can use the global JavaScript function isNaN() to find out if a value is not a number:
+let isNum2 = 100 / "Apple"
+console.log((isNaN(isNum2)));
+
+// Converting to number data types
+let myNumber = '74';
+myNumber += 3;
+console.log(myNumber);
+
+Number(myNumber);
+myNumber -= 3;
+console.log(myNumber);
+
+// Math1 
+
+let num1 = 1;
+let num2 = 2;
+let num3 = 3;
+let num4 = 4;
+
+let numAddition = num1 + num2;
+console.log(numAddition);
