@@ -64,10 +64,26 @@ console.log(myNumber);
 
 // Math1 
 
-let num1 = 1;
-let num2 = 2;
-let num3 = 3;
-let num4 = 4;
+let number1 = 1;
+let number2 = 2;
+let number3 = 3;
+let number4 = 4;
 
-let numAddition = num1 + num2;
+let numAddition = number1 + number2;
 console.log(numAddition);
+
+/*
+**********
+Assignment
+**********
+
+Try the following exercises 
+*/
+
+// 1. Add 2 numbers together! 
+console.log(23 + 97);
+
+// 2. Add a sequence of 6 different numbers together
+
+// 3. Print the solution  to the following equation: ( 4 + 6 + 9) / 77
+console.log((4 + 6 + 9) / 77);
