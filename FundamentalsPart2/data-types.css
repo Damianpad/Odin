@@ -1,6 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&family=Montserrat:ital,wght@1,500&display=swap');
+* {
+    background-color: #232529;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
 code {
-    background-color: #2a2d37;
+    background-color:  #282a36;
     color: white;
     height: 75px;
     padding: 10px;
+}
+
+li {
+    margin: 25px;
+    list-style: none;
 }
