@@ -87,3 +87,15 @@ console.log(23 + 97);
 
 // 3. Print the solution  to the following equation: ( 4 + 6 + 9) / 77
 console.log((4 + 6 + 9) / 77);
+
+// 4. Let's use variables
+
+// Type the following at the top of the script tag
+
+let number5 = 10
+console.log(a);
+
+let multiplication = 9 * number5;
+console.log(multiplication);
+
+let number6 = 7 * number5
